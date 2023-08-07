@@ -9,4 +9,4 @@ mk20661@bristol.ac.uk Hongbing Qiu
 
 po21744@bristol.ac.uk Yumu Xie
 
-Hongbing Qiu made the lead in this project.
+Hongbing Qiu took the lead in this project.
